@@ -1,1 +1,6 @@
 /.idea/
+/back/demo/.gitattributes
+/back/demo/.gitignore
+/back/demo/mvnw
+/back/demo/mvnw.cmd
+/back/demo/.mvn/wrapper/maven-wrapper.properties
